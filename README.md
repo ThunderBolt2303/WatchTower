@@ -108,13 +108,6 @@ To get a local copy of the prototype up and running, follow these steps.
 
 ---
 
-## Team Night Owls
 
-* **Yaksh Maangat**
-* **Mahi Chaudhary**
-* **Uday Chaudhary**
-* **Kanishka Singh**
 
-<div align="center">
-  <p>Built for The Innovator's Court Hackathon</p>
-</div>
+
