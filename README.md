@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ThunderBolt2303/The-Innovator-s-Court/main/frontend/public/vite.svg" alt="Logo" width="80" height="80">
-  <h1 align="center">The Innovator's Court: AI-Powered Cybersecurity Framework</h1>
+  <img src="https://raw.githubusercontent.com/ThunderBolt2303/Watch Tower/main/frontend/public/vite.svg" alt="Logo" width="80" height="80">
+  <h1 align="center">Watch Tower: AI-Powered Cybersecurity Framework</h1>
   <p align="center">
     A proactive, machine learning-driven defense system by <strong>Team Code Benders</strong>.
     <br />
@@ -9,9 +9,9 @@
     <br />
     <a href="#">View Demo</a>
     ·
-    <a href="https://github.com/ThunderBolt2303/The-Innovator-s-Court/issues">Report Bug</a>
+    <a href="https://github.com/ThunderBolt2303/Watch Tower/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ThunderBolt2303/The-Innovator-s-Court/issues">Request Feature</a>
+    <a href="https://github.com/ThunderBolt2303/Watch Tower/issues">Request Feature</a>
   </p>
 </div>
 
@@ -94,11 +94,11 @@ To get a local copy of the prototype up and running, follow these steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ThunderBolt2303/The-Innovator-s-Court.git
+   git clone https://github.com/ThunderBolt2303/Watch Tower.git
    ```
 2. Navigate to the project directory
    ```sh
-   cd The-Innovator-s-Court
+   cd Watch Tower
    ```
 3. Spin up the containers
    ```sh
